@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/sandeep-1224.github.io/DoctorApiSanga/static/css/main.a3586dac.css",
-    "main.js": "/sandeep-1224.github.io/DoctorApiSanga/static/js/main.4bb88b4f.js",
-    "static/js/787.865fcdb9.chunk.js": "/sandeep-1224.github.io/DoctorApiSanga/static/js/787.865fcdb9.chunk.js",
-    "index.html": "/sandeep-1224.github.io/DoctorApiSanga/index.html",
-    "main.a3586dac.css.map": "/sandeep-1224.github.io/DoctorApiSanga/static/css/main.a3586dac.css.map",
-    "main.4bb88b4f.js.map": "/sandeep-1224.github.io/DoctorApiSanga/static/js/main.4bb88b4f.js.map",
-    "787.865fcdb9.chunk.js.map": "/sandeep-1224.github.io/DoctorApiSanga/static/js/787.865fcdb9.chunk.js.map"
+    "main.css": "/DoctorApiSanga/static/css/main.a3586dac.css",
+    "main.js": "/DoctorApiSanga/static/js/main.b486776b.js",
+    "static/js/787.865fcdb9.chunk.js": "/DoctorApiSanga/static/js/787.865fcdb9.chunk.js",
+    "index.html": "/DoctorApiSanga/index.html",
+    "main.a3586dac.css.map": "/DoctorApiSanga/static/css/main.a3586dac.css.map",
+    "main.b486776b.js.map": "/DoctorApiSanga/static/js/main.b486776b.js.map",
+    "787.865fcdb9.chunk.js.map": "/DoctorApiSanga/static/js/787.865fcdb9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a3586dac.css",
-    "static/js/main.4bb88b4f.js"
+    "static/js/main.b486776b.js"
   ]
 }
